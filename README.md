@@ -1,1 +1,3 @@
-# ML_nano_poject02
+# Udacity Introduction to Machine learning with TensorFlow
+
+## Project 2
